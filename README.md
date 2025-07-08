@@ -3,6 +3,23 @@
 -->
 # **webMethods API Control Plane Agent for Azure API Management Service**
 
+> ⚠️ **Repository Archived**  
+>
+> This repository is being archived and is no longer actively maintained.
+> The content previously hosted in this repository has now been **reorganized and relocated to more appropriate or updated locations**.
+> We have also updated most of our official documentation to reference the new sources.
+> As a result, this repository is no longer the primary reference point and will be archived for clarity and to avoid confusion.
+>
+> - No further updates, bug fixes, or pull requests will be accepted.  
+> - The repository remains accessible in read-only mode for historical reference.  
+>
+> If you're looking for current versions of this content or its new locations, please refer to the product documentation:
+> - [On-premise/Software documentation](https://www.ibm.com/docs/en/wm-api-control-plane/11.1.0)
+> - [SaaS documentation](https://www.ibm.com/docs/en/wm-api-control-plane-saas/11.1.0)
+>
+> Thank you to everyone who used, contributed to, or supported this project!
+
+
 ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Agent SDK Version 1.0.0](https://img.shields.io/badge/Agent_SDK-1.0.0-green)
 ![API Control Plane Version 11.0.4](https://img.shields.io/badge/API_Control_Plane-11.0.4-purple)
